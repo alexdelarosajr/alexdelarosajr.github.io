@@ -26,4 +26,4 @@ Delve into my portfolio—a vibrant canvas where self-taught data wizardry sprin
 - Pandas
 
 ## Projects
-![image](https://github.com/alexdelarosajr/alexdelarosajr.github.io/assets/153109904/f2f83ba9-fe68-45ec-88cf-b0aafedf8887)
+![](https://app.powerbi.com/links/sEIOCvK24R?ctid=ad827c51-26fd-49e5-96f3-ac4e8f76eab3&pbi_source=linkShare)
