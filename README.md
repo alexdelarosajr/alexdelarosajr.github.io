@@ -17,7 +17,7 @@ Delve into my portfolio—a vibrant canvas where self-taught data wizardry sprin
 - Data Processing
 
 
-## Technical Tools
+### Technical Tools
 - MS Excel
 - Power BI
 - MySQL
@@ -25,7 +25,4 @@ Delve into my portfolio—a vibrant canvas where self-taught data wizardry sprin
 - Numpy
 - Pandas
 
-
-### Education
-
-### Portfolio
+## Projects
